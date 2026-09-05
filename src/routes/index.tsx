@@ -17,7 +17,7 @@ import { Separator } from "@/components/ui/separator";
 const correiosLogo = { url: "/correios-logo.png" };
 
 export const CHECKOUT_URL =
-  "https://pay.pagamento-online.app/checkout/af011005-e9ee-44a9-9010-c44b31f8985b?utm_source=organic&utm_campaign=&utm_medium=&utm_content=&utm_term=";
+  "https://pay.portalsimulacred.online/checkout/af011005-e9ee-44a9-9010-c44b31f8985b?utm_source=organic&utm_campaign=&utm_medium=&utm_content=&utm_term=";
 
 type StepState = "done" | "progress" | "pending";
 
