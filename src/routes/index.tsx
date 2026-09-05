@@ -14,7 +14,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
-import correiosLogo from "@/assets/correios-logo.png.asset.json";
+const correiosLogo = { url: "/correios-logo.png" };
 
 export const CHECKOUT_URL =
   "https://pay.pagamento-online.app/checkout/af011005-e9ee-44a9-9010-c44b31f8985b?utm_source=organic&utm_campaign=&utm_medium=&utm_content=&utm_term=";
